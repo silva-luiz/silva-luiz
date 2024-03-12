@@ -14,7 +14,7 @@ My name is **Luiz Henrique**, I'm a Front and Back End student, I live in Taubat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-luiz&theme=dark&show_icons=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&langs_count=7&theme=dark"/>
 
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
