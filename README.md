@@ -7,7 +7,7 @@ My name is **Luiz Henrique**, I'm a Front and Back End student, I live in Taubat
 
 :computer: OpenBSD / Linux user
 
-🌱 I'm studying about HTML, CSS, JS, Dart and Flutter!
+🌱 I'm studying Dart and Flutter!
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
