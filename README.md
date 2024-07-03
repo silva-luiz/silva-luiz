@@ -11,7 +11,7 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
-🌎: My Blog: [Luizera's Blog](https://luizera.com.br/)
+🌎 My Blog: [Luizera's Blog](https://luizera.com.br/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-luiz&theme=dark&show_icons=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&langs_count=7&theme=dark"/>
