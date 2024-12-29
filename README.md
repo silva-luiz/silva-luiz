@@ -3,7 +3,7 @@ Hi there 👋
 
 My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubaté, São Paulo. I'm looking for learn and improve myself 1% per day.
 
-🔭 Currently working as Mobile Developer at **Cronos Bank**
+🔭 Currently working as Flutter Developer at **Cronos Bank**
 
 :computer: OpenBSD / Linux user
 
