@@ -1,13 +1,13 @@
 
 Hi there 👋
 
-My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubaté, São Paulo. I'm looking for learn and improve myself 1% per day.
+My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubaté, São Paulo.
 
-🔭 Currently working as Flutter Developer at **Cronos Bank**
+🔭 Currently working as Flutter Developer at **Cronos - Soluções para Fintech**
 
-:computer: OpenBSD / Linux user
+:computer: Linux / OpenBSD user
 
-🌱 I'm studying Dart, Flutter and ReactJS!
+🌱 I'm studying Dart, Flutter and NextJs!
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
