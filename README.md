@@ -5,9 +5,9 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 
 🔭 Currently working as Flutter Developer at **Cronos - Soluções para Fintech**
 
-:computer: Linux / OpenBSD user
+:computer: Linux user
 
-🌱 I'm studying Dart, Flutter and NextJs!
+🌱 I'm studying Dart, Flutter, NextJs and Python!
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
@@ -19,6 +19,8 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 ![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
