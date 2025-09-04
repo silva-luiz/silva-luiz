@@ -11,7 +11,7 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
-🌎 My Blog: [Luizera's Blog](https://luizera.com.br/)
+🌎 You can find more about me on my Blog: [Luizera's Blog](https://luizera.com.br/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-luiz&theme=dark&show_icons=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&langs_count=7&theme=dark"/>
@@ -19,8 +19,6 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 ![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
