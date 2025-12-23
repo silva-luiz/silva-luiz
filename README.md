@@ -7,7 +7,7 @@ My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubat
 
 :computer: Linux user
 
-🌱 I'm studying Dart, Flutter, NextJs and Python!
+🌱 I'm studying Java, Dart, Flutter and NextJS!
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
