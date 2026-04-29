@@ -1,17 +1,17 @@
 
 Hi there 👋
 
-My name is **Luiz Henrique**, I'm a mobile development student, I live in Taubaté, São Paulo.
+My name is **Luiz Henrique**, I live in Taubaté, São Paulo.
 
-🔭 Currently working as Flutter Developer at **Cronos - Soluções para Fintech**
-
-:computer: Linux user
+🔭 Currently working as Junior Software Engineer at **QikServe**
 
 🌱 I'm studying Java, Dart, Flutter and NextJS!
 
 📫 How to reach me: luiz.hgsilva@hotmail.com
 
 🌎 You can find more about me on my Blog: [Luizera's Blog](https://luizera.com.br/)
+
+🌎 If you want to know about Eletronic Music, you can also visit my another project ->  [Sync Nation](https://sync-nation.com.br/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-luiz&theme=dark&show_icons=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&langs_count=7&theme=dark"/>
