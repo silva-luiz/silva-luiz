@@ -61,42 +61,6 @@ class Luiz extends Developer {
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/silva-luiz/arenaz-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=arenaz-v2&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/silva-luiz/arenaz_mobile_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=arenaz_mobile_v2&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/silva-luiz/pokedex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=pokedex&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/silva-luiz/easypark_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=easypark_backend&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=silva-luiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=silva-luiz&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silva-luiz&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
 ### 🎧 Off the keyboard
 
 When I'm not writing code, I'm probably digging for new tracks. I run
