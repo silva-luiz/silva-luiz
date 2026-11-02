@@ -1,24 +1,116 @@
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--            silva-luiz · built with code, coffee & bass      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Luiz%20Henrique&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Taubat%C3%A9%2C%20SP%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18" alt="Luiz Henrique" />
+</p>
 
-My name is **Luiz Henrique**, I live in Taubaté, São Paulo.
+<p align="center">
+  <a href="https://github.com/silva-luiz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Luiz+%F0%9F%91%8B;Software+Engineer+%40+QikServe;Flutter+%2B+Dart+%2B+Java+%2B+Next.js;Emacs+user+%E2%80%94+yes%2C+really+%F0%9F%A7%99;Electronic+music+enthusiast+%F0%9F%8E%A7" alt="Typing SVG" />
+  </a>
+</p>
 
-🔭 Currently working as Junior Software Engineer at **QikServe**
+<p align="center">
+  <a href="https://luizera.com.br/"><img src="https://img.shields.io/badge/Blog-Luizera-24C6DC?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://sync-nation.com.br/"><img src="https://img.shields.io/badge/Sync%20Nation-Electronic%20Music-302b63?style=flat-square&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-gomes-da-silva-0a13b3194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:luiz.hgsilva@hotmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=silva-luiz&style=flat-square&color=24C6DC&label=profile+views" />
+</p>
 
-🌱 I'm studying Java, Dart, Flutter and NextJS!
+---
 
-📫 How to reach me: luiz.hgsilva@hotmail.com
+### `> whoami`
 
-🌎 You can find more about me on my Blog: [Luizera's Blog](https://luizera.com.br/)
+```dart
+class Luiz extends Developer {
+  final String fullName  = 'Luiz Henrique Gomes da Silva';
+  final String location  = 'Taubaté, São Paulo 🇧🇷';
+  final String company   = 'QikServe';
+  final String role      = 'Software Engineer';
 
-🌎 If you want to know about Eletronic Music, you can also visit my another project ->  [Sync Nation](https://sync-nation.com.br/)
+  final List<String> learning = ['Java', 'Dart', 'Flutter', 'Next.js'];
+  final List<String> hobbies  = ['Electronic music 🎧', 'Writing on my blog ✍️', 'Creaing projects and solutions'];
 
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+  @override
+  String get motto => 'Ship it, learn from it, ship it better.';
+}
+```
 
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧰 Tech Stack
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,nextjs,react,ts,js&perline=8" alt="Main stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,php,git,github,linux,vscode&perline=8" alt="Other tools" />
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<details>
+<summary><b>🖥️ My battlestation (click to expand)</b></summary>
+<br/>
+
+| What        | Weapon of choice |
+|-------------|------------------|
+| Soundtrack  | 🎧 Techno, house & everything with a 4/4 kick |
+| Fuel        | ☕ Coffee. Lots of it. |
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/silva-luiz/arenaz-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=arenaz-v2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/silva-luiz/arenaz_mobile_v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=arenaz_mobile_v2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/silva-luiz/pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=pokedex&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/silva-luiz/easypark_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=silva-luiz&repo=easypark_backend&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=silva-luiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-luiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=silva-luiz&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silva-luiz&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+### 🎧 Off the keyboard
+
+When I'm not writing code, I'm probably digging for new tracks. I run
+**[Sync Nation](https://sync-nation.com.br/)** — a project all about electronic music —
+and I write about tech and life over at **[Luizera's Blog](https://luizera.com.br/)**.
+
+> *"Good code and good tracks have the same thing in common: no unnecessary noise."*
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! ⭐ Feel free to explore my repos or reach out.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" />
+</p>
