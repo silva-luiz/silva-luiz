@@ -32,7 +32,7 @@ class Luiz extends Developer {
   final String role      = 'Software Engineer';
 
   final List<String> learning = ['Java', 'Dart', 'Flutter', 'Next.js'];
-  final List<String> hobbies  = ['Electronic music 🎧', 'Writing on my blog ✍️', 'Creaing projects and solutions'];
+  final List<String> hobbies  = ['Electronic music 🎧', 'Writing on my blog ✍️', 'Creating projects and solutions'];
 
   @override
   String get motto => 'Ship it, learn from it, ship it better.';
