@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/silva-luiz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Luiz+%F0%9F%91%8B;Software+Engineer+%40+QikServe;Flutter+%2B+Dart+%2B+Java+%2B+Next.js;Emacs+user+%E2%80%94+yes%2C+really+%F0%9F%A7%99;Electronic+music+enthusiast+%F0%9F%8E%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Luiz+%F0%9F%91%8B;Software+Engineer+%40+QikServe;Flutter+%2B+Dart+%2B+Java+%2B+Next.js;Electronic+music+enthusiast+%F0%9F%8E%A7" alt="Typing SVG" />
   </a>
 </p>
 
